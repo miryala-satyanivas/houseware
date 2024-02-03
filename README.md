@@ -1,5 +1,5 @@
 # Test Plan for React Components
-
+Test cases are added here: https://github.com/miryala-satyanivas/houseware/tree/master/src/todo/tests
 ## App Component (`app.jsx`)
 
 ### Type of Tests:
